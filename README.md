@@ -14,7 +14,7 @@ How to Play
 - Click Rock, Paper, or Scissors to make your choice.
 - The computer randomly selects a move.
 - The winner is determined based on the classic game rules:
-Rock beats Scissors
-Paper beats Rock
-Scissors beats Paper
+Rock beats Scissors,
+Paper beats Rock,
+Scissors beats Paper.
 - The scores update dynamically, and a pop-up displays the result.
