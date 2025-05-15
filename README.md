@@ -18,3 +18,10 @@ Rock beats Scissors,
 Paper beats Rock,
 Scissors beats Paper.
 - The scores update dynamically, and a pop-up displays the result.
+
+**Requirements**
+- Java 11 or newer
+- JavaFX SDK
+
+**Running the App**
+- Compile and run your JavaFX application as usual. Make sure JavaFX libraries are properly linked.
